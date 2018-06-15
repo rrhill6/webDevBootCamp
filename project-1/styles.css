@@ -1,0 +1,41 @@
+body{
+    background-color: #a4f4d3;
+}
+
+.container {
+    margin: auto;
+    width: 1400px;
+    color: #787878;
+    text-align: center;
+}
+
+header {
+    margin: 50px 0;
+}
+
+span {
+    font-size: 24px;
+    font-style: italic;
+    font-family: 'Georgia', 'Times New Roman', serif;
+}
+
+h1 {
+    font-size: 44px;
+    margin-top: 10px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+a {
+    display: inline-block;
+}
+
+a img {
+    margin: 8px;
+    border: solid 2px #787878;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+img:hover {
+    opacity: 1;
+}

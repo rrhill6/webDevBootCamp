@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Vacation Photo Gallery</title>
+        <!-- CSS -->
+        <link href="styles.css" rel="stylesheet">
+        <!-- jQuery for Lightbox -->
+        <link href="lightbox2-master/dist/css/lightbox.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <span>—  Cool Places  —</span>
+                <h1>England, Mexico &amp; France</h1>
+            </header>
+            <!-- Thumbnail Images -->
+            <a href="assets/images/london1.jpg" data-lightbox="roadtrip" data-title="Hyde Park">
+                <img src="assets/thumbnails/thumblondon1.jpg" alt="Hyde Park"/>
+            </a>
+            <a href="assets/images/london2.jpg" data-lightbox="roadtrip" data-title="Hyde Park">
+                <img src="assets/thumbnails/thumblondon2.jpg" alt="Hyde Park"/>
+            </a>
+            <a href="assets/images/london3.jpg" data-lightbox="roadtrip" data-title="Swans in park pond">
+                <img src="assets/thumbnails/thumblondon3.jpg" alt="Swans in park pond"/>
+            </a>
+            <a href="assets/images/mexico1.jpg" data-lightbox="roadtrip" data-title="North Isla Mujeres slug ">
+                <img src="assets/thumbnails/thumbmexico1.jpg" alt="North Isla Mujeres slug"/>
+            </a>
+            <a href="assets/images/mexico2.jpg" data-lightbox="roadtrip" data-title="Zama's in Mexico">
+                <img src="assets/thumbnails/thumbmexico2.jpg" alt="Zama's in Mexico"/>
+            </a>
+            <a href="assets/images/mexico3.jpg" data-lightbox="roadtrip" data-title="Punta Norte Isla Mujeres, MX">
+                <img src="assets/thumbnails/thumbmexico3.jpg" alt="Punta Norte Isla Mujeres, MX"/>
+            </a>
+            <a href="assets/images/paris1.jpg" data-lightbox="roadtrip" data-title="Place de la Concorde">
+                <img src="assets/thumbnails/thumbparis1.jpg" alt="Place de la Concorde"/>
+            </a>
+            <a href="assets/images/paris2.jpg" data-lightbox="roadtrip" data-title="Pyramide de Louvre">
+                <img src="assets/thumbnails/thumbparis2.jpg" alt="Pyramide de Louvre"/>
+            </a>
+            <a href="assets/images/paris3.jpg" data-lightbox="roadtrip" data-title="Seine &amp; Notre Dame">
+                <img src="assets/thumbnails/thumbparis3.jpg" alt="Seine &amp; Notre Dame"/>
+            </a>
+        </div>
+        <!-- JavaScript -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="lightbox2-master/dist/js/lightbox.js"></script>
+        <script>
+            lightbox.option({
+              'positionFromTop': 55, 'fadeDuration': 350, 'imageFadeDuration': 700
+            })
+        </script>
+    </body>
+</html>
