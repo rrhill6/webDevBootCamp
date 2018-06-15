@@ -11,4 +11,9 @@ Contains practice files of work from Colt Steele's Udemy course "Web Developer's
 # Learn How to Build a Website with JQuery
 Contains refactored files 
 
-### "Project 1" - Photo Gallery practice, single page
+### "Project 1" - Photo Gallery practice, single page: Uses jQuery, lightbox API.
+learned how to use a 3rd party library, reading documentation
+
+### "Project 2" - Not completed
+### "Project 3" - Not Completed
+### "Project 4" - Not Completed
