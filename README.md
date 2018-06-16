@@ -14,7 +14,7 @@ Contains refactored files
 ### "Project 1" - Photo Gallery practice, single page: Uses jQuery, lightbox API.
 learned how to use a 3rd party library, reading documentation
 
-### "Project 2" - FAQ mock page: Uses jQuery methods (.click, .toggleClass, .slideToggle)
+### "Project 2" - FAQ mock page: Uses jQuery methods (.click, .toggleClass, .slideToggle, .animate)
 learned how to use 'THIS' keyword and traversing the DOM, added some animations
 
 ### "Project 3" - Not Completed
