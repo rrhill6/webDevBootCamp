@@ -17,5 +17,7 @@ learned how to use a 3rd party library, reading documentation
 ### "Project 2" - FAQ mock page: Uses jQuery methods (.click, .toggleClass, .slideToggle, .animate)
 learned how to use 'THIS' keyword and traversing the DOM, added some animations
 
-### "Project 3" - Not Completed
+### "Project 3" - ToDo list App: Uses jQuery methods (.append, .attr, .val) & local storage for data persistance
+learned how to manipulate the DOM by using 'getItem' 'setItem', use/review if and nested if statements
+
 ### "Project 4" - Not Completed
