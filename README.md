@@ -20,4 +20,6 @@ learned how to use 'THIS' keyword and traversing the DOM, added some animations
 ### "Project 3" - ToDo list App: Uses jQuery methods (.append, .attr, .val, slideUp, .css) & local storage for data persistance
 learned how to manipulate the DOM by using 'getItem' 'setItem', use/review if and nested if statements, use local storage to persist data; finished project includes 'easter egg' gif when user inputs "run"
 
-### "Project 4" - Not Completed
+### "Project 4" - Not Completed - Apartments for Rent app: Uses jQuery methods(.each, .grep),  json API & AJAX
+learned how to use json (a provided file) and AJAX, use a link & jQuery to get a location on google maps
+HAVE NOT IMPLEMENTED ADDITIONAL FUNCTIONS YET!
